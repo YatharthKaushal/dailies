@@ -5,7 +5,20 @@
   "exports": {
     "./button": "./src/button.tsx",
     "./card": "./src/card.tsx",
-    "./code": "./src/code.tsx"
+    "./code": "./src/code.tsx",
+    "./Calendar": "./icons/Calendar.jsx",
+    "./Chat": "./icons/Chat.jsx",
+    "./Clock": "./icons/Clock.jsx",
+    "./Cpu": "./icons/Cpu.jsx",
+    "./Document": "./icons/Document.jsx",
+    "./Info": "./icons/Info.jsx",
+    "./Microphone": "./icons/Microphone.jsx",
+    "./More": "./icons/More.jsx",
+    "./Pen": "./icons/Pen.jsx",
+    "./Search": "./icons/Search.jsx",
+    "./Share": "./icons/Share.jsx",
+    "./Storage": "./icons/Storage.jsx",
+    "./Todo": "./icons/Todo.jsx"
   },
   "scripts": {
     "lint": "eslint . --max-warnings 0",
